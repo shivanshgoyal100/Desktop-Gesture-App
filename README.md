@@ -1,5 +1,5 @@
 # Desktop-Gesture-App
-# GesturePro README
+# README
 
 GesturePro is a professional-grade system designed to translate hand movements into system-level commands using machine learning. By leveraging computer vision and neural networks, it provides a touchless interface for controlling desktop functions, media, and browsers.
 
